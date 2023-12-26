@@ -1,1 +1,3 @@
-# Programming-Python-
+# Programming-Python
+## Славный Даниил Михайлович ИВТ-1.2 
+## ЛР - 5
